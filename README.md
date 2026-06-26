@@ -1,5 +1,3 @@
-# streaming-ttc-cache-coupling
-
 # Empirical Note: Bounds of KV-Cache Contention in Streamed Test-Time Compute (K, λ)
 
 ## Abstract
